@@ -6,7 +6,7 @@ Wanted to explore the world of SIEM (Security Information and Event Management) 
 <br />
 
 
-<h2> Software I Used</h2>
+<h2>Software I Used</h2>
 
 - <b>VirtualBox 7</b> 
 - <b>Security Onion ISO</b>
@@ -15,7 +15,7 @@ Wanted to explore the world of SIEM (Security Information and Event Management) 
 
 - <b>Oracle Linux</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program installation walk-through:</h2>
 
 <p align="center">
 Launching VirtualBox Install: <br/>
