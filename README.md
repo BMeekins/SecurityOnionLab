@@ -42,10 +42,28 @@ The first part of install running:  <br/>
 <img src="http://meekins.org/_images/Security_Onion_Install_6.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Logging back into Oracle Server:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_7.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
+Starting Security Onion install:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_8.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Navigating the install:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_9.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Select Install to contiune:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_10.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Logging back into Oracle Server:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_7.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+
+
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
