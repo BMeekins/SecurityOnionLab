@@ -54,14 +54,52 @@ Navigating the install:  <br/>
 <img src="http://meekins.org/_images/Security_Onion_Install_9.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
-Select Install to contiune:  <br/>
-<img src="http://meekins.org/_images/Security_Onion_Install_10.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+Selecting the Eval Install:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_11.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
-Logging back into Oracle Server:  <br/>
-<img src="http://meekins.org/_images/Security_Onion_Install_7.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+Agreeing to install Elastic Stack Binaries and other Components:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_12.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
+Selecting Standard install:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_13.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Set Security Onion hostname:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_15.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Selecting NIC for the management console:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_16.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Select how to access the management console: Static or DCHP: <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_17.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Adding the Static IP address to be assigned to access the management console:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_18.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Setting DNS servers:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_19.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Setting DNS search domain:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_20.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Selecting how you connect to the internet: Direct or Proxy:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_21.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Setting DNS servers:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_19.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+
+
 
 
 Sanitization complete:  <br/>
