@@ -30,12 +30,20 @@ Configuring 200GB of Hard Disk space: <br/>
 <img src="http://meekins.org/_images/Security_Onion_Install_3.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adding two NICs for Monitoring and Management Interface:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_4.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Starting install of Oracle Linux:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_5.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+The first part of install running:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_6.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
