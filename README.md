@@ -94,8 +94,40 @@ Selecting how you connect to the internet: Direct or Proxy:  <br/>
 <img src="http://meekins.org/_images/Security_Onion_Install_21.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
-Setting DNS servers:  <br/>
-<img src="http://meekins.org/_images/Security_Onion_Install_19.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+Keeping the default Docker Ranges:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_22.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Setting the Monitor NIC:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_23.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Configure email address for accessing management interface:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_24.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Setting management interface password:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_25.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Selecting how you want to access the management interface:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_26.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Setting the access to the portal via the web:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_27.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Setting IP address range to access the web portal:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_28.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Installation summary. Select Yes to continue the install:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_29.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Setting the access to the portal via the web:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_27.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
 
