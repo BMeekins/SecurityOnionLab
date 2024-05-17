@@ -2,13 +2,13 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Wanted to explore the world of SIEM (Security Information and Event Management) systems. With all the various options out there wanted to try to install it on my testing lab network. Install VirtualBox 7.0 and walked through the material to install the Security Onion Open Source SIEM product. This product can be found at (https://securityonionsolutions.com/software). 
+Wanted to explore the world of SIEM (Security Information and Event Management) systems. With all the various options out there wanted to try to install it on my testing lab network. Installed VirtualBox 7.0 and walked through the material to install the Security Onion Open Source SIEM product. This product can be found at (https://securityonionsolutions.com/software). 
 <br />
 
 
 <h2> Software I Used</h2>
 
-- <b>VirtualBox 7.</b> 
+- <b>VirtualBox 7</b> 
 - <b>Security Onion ISO</b>
 
 <h2>Environments Used </h2>
