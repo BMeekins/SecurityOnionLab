@@ -18,20 +18,20 @@ Wanted to explore the world of SIEM (Security Information and Event Management) 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Launching VirtualBox Install: <br/>
 <img src="http://meekins.org/_images/Security_Onion_Install_1.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring 12 GB of Ram and 4 Processors for the Install:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_2.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring 200GB of Hard Disk space: <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_3.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
