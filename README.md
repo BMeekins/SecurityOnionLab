@@ -127,21 +127,15 @@ Installation summary. Select Yes to continue the install:  <br/>
 <br />
 <br />
 Setting the access to the portal via the web:  <br/>
-<img src="http://meekins.org/_images/Security_Onion_Install_27.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<img src="http://meekins.org/_images/Security_Onion_Install_31.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
+<br />
+<br />
+Access the management web interface:  <br/>
+<img src="http://meekins.org/_images/Security_Onion_Install_30.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
 
-
-
-
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
+Install Complete!!!
 <!--
  ```diff
 - text in red
