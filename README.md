@@ -134,8 +134,8 @@ Access the management web interface:  <br/>
 <img src="http://meekins.org/_images/Security_Onion_Install_30.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
+Install Complete!!!  <br/>
 
-Install Complete!!!
 <!--
  ```diff
 - text in red
