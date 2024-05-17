@@ -19,7 +19,7 @@ Wanted to explore the world of SIEM (Security Information and Event Management) 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="http://meekins.org/_images/Security_Onion_Install_1.png" height="80%" width="80%" alt="Security Onion Screenshot"/>
 <br />
 <br />
 Select the disk:  <br/>
