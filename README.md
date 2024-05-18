@@ -1,5 +1,6 @@
- ### [Security Onion Installation Demonstration](http://meekins.org/_images/Security_Onion_Install.mp4))
+ ### [Security Onion Installation Demonstration](http://meekins.org/_images/Security_Onion_Install.mp4)
 
+ 
 <h2>Description</h2>
 Wanted to explore the world of SIEM (Security Information and Event Management) systems. With all the various options out there wanted to try to install it on my testing lab network. Installed VirtualBox 7.0 and walked through the material to install the Security Onion Open Source SIEM product. This product can be found at (https://securityonionsolutions.com/software). 
 <br />
